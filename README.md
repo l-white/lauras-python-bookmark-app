@@ -1,6 +1,6 @@
 # Bookmark Server
 
-In this exercise, you'll create a *bookmark server* or URL-shortening service,
+This is a *bookmark server* or URL-shortening service,
 similar to `TinyURL.com` or `goo.gl`, but with no persistent storage.
 
 This server will accept a URL and a short name, check that the URL actually
